@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro:wght@400;500;700&display=swap');
+
+*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body{
+    font-family: 'Andada Pro', serif;
+}
+
+img{
+    width: 40%;
+    border-radius: 8rem;
+}
+
+article{
+    display: flex;
+    margin: 2rem 0;
+    align-items: center;
+}
